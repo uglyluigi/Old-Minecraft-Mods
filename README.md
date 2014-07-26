@@ -18,3 +18,5 @@ CommandsPlus
 Adds commands.
 
 I'll give these proper descriptions after I get some sleep.
+
+No I won't. These are just here so I don't accidentally delete them.
